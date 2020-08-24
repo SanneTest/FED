@@ -16,15 +16,15 @@
 
 ## Voortgang 1 (week 3)
 
-###verslag van meeting
+### verslag van meeting
 
 -na afloop opstellen-
 
-###agenda voor meeting
+### agenda voor meeting
 
 -samen met je groephe opstellen-
 
-###stand van zaken
+### stand van zaken
 
 -dit ging goed dit was lastig-
 
