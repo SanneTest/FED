@@ -1,7 +1,7 @@
 # Procesverslag
-auteur: -jouw naam-
+**Auteur:** -jouw naam-
 
-URL site: -url naar je website-
+**URL site:** -url naar je website-
 
 ## Bronnenlijst
 1. bron 1
@@ -18,19 +18,18 @@ URL site: -url naar je website-
 
 ## Intake
 
-Je startniveau: -kies uit zwart, rood of blauw-
+**Je startniveau:** -kies uit zwart, rood of blauw-
 
-Je focus: -kies uit responsive of surface plane-
+**Je focus:** -kies uit responsive of surface plane-
 
-Je opdracht: -link naar de website die je gaan namaken of de naam van je eigen ontwerp-
+**Je opdracht:** -link naar de website die je gaan namaken óf de naam van je eigen ontwerp-
 
-Screenshot: 
+**Screenshot:**
 
 ![screenshot(s) van de website die je gaat namaken of afbeelding(en) van je eigen ontwerp](images/vlag1.png)
 
---
+**Breakdown-schets:**
 
-Breakdown-schets:
 ![-voorlopige breakdownschets van de site die je gaat maken-](images/vlag1.png)
 
 
