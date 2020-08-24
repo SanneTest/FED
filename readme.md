@@ -1,6 +1,9 @@
 # Procesverslag
 
 ## Bronnenlijst
+1. bron 1
+2. bron 2
+3. ...
 
 ## Eindgesprek (week 7/8)
 
@@ -11,7 +14,5 @@
 ## Voortgang 1 (week 3)
 
 ## Intake
-![alt text](https://github.com/SanneTest/FED/images/vlag1.png)
-
 ![Kiku](images/vlag1.png)
 
