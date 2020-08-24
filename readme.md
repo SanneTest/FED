@@ -10,17 +10,19 @@
 
 ## Eindgesprek (week 7/8)
 
+---
+
 ## Voortgang 3 (week 6)
 
 -same as voortgang 1-
 
-
+---
 
 ## Voortgang 2 (week 5)
 
 -same as voortgang 1-
 
-
+---
 
 ## Voortgang 1 (week 3)
 
@@ -40,7 +42,7 @@
 
 -na afloop opstellen-
 
-
+---
 
 ## Intake
 
