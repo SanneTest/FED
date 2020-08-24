@@ -4,11 +4,19 @@
 **URL site:** -url naar je website-
 
 ## Bronnenlijst
-1. bron 1
-2. bron 2
-3. ...
+1. -bron 1-
+2. -bron 2-
+3. -...-
+
+---
 
 ## Eindgesprek (week 7/8)
+
+-dit ging goed dit was lastig-
+
+**Screenshot(s):**
+
+-screenshot(s) van je eindresultaat-
 
 ---
 
