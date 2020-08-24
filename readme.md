@@ -3,7 +3,7 @@
 
 **URL site:** -url naar je website-
 
-Markdown cheatcheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) Nb. de basisopmaak is helemaal prima. Het gaat om de inhoud. Besteedt de tijd voor pracht en praal aan je website.
+Markdown cheatcheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de spartaanse opmaak is helemaal prima. Het gaat om de inhoud. Besteedt de tijd voor pracht en praal aan je website.
 
 
 
