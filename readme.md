@@ -12,7 +12,11 @@
 
 ## Voortgang 3 (week 6)
 
+-same as voortgang 1-
+
 ## Voortgang 2 (week 5)
+
+-same as voortgang 1-
 
 ## Voortgang 1 (week 3)
 
@@ -46,7 +50,7 @@
 
 **Breakdown-schets:**
 
-![-voorlopige breakdownschets van een van de pagina's van de site die je gaat maken-](images/vlag1.png)
+![-voorlopige breakdownschets van een of beide pagina's van de site die je gaat maken-](images/vlag1.png)
 
 
 
