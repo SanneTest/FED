@@ -1,9 +1,7 @@
 # Procesverslag
 **Auteur:** -jouw naam-
 
-**URL site:** [-mijn mooie website-](https://github.com/jouw-url-hier)
-
-https://sannetest.github.io/FED/
+**URL site:** [-mijn mooie website-](https://jouw-username-hier/github.io/jouw-projectmap-hier/, bijv. https://shooft.github.io/FED/)
 
 Markdown cheatcheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de spartaanse opmaak is helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
