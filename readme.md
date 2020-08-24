@@ -18,6 +18,10 @@ URL site: -url naar je website-
 
 ## Intake
 
+Je opdracht: -link naar de website die je gaan namaken of de naam van je eigen ontwerp-
+
+Screenshot: -screenshot(s) van de website die je gaat namaken of afbeelding(en) van je eigen ontwerp-
+
 Je focus: -kies uit responsive of surface plane-
 
 Je startniveau: -kies uit zwart, rood of blauw-
