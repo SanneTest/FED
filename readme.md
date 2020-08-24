@@ -17,5 +17,10 @@ URL site: -url naar je website-
 ## Voortgang 1 (week 3)
 
 ## Intake
+
+Je focus: -kies uit responsive of surface plane-
+
+Je startniveau: -kies uit zwart, rood of blauw-
+
 ![Kiku](images/vlag1.png)
 
