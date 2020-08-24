@@ -52,7 +52,7 @@
 
 
 
-## Intake
+## Intake (week 1)
 
 **Je startniveau:** -kies uit zwart, rood óf blauw-
 
@@ -62,7 +62,7 @@
 
 **Screenshot(s):**
 
-![screenshot(s) van de website die je gaat namaken of afbeelding(en) van je eigen ontwerp](images/vlag1.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/vlag1.png)
 
 **Breakdown-schets:**
 
