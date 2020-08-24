@@ -3,7 +3,7 @@
 
 **URL site:** -url naar je website-
 
-Markdown cheatcheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+Markdown cheatcheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) Nb. de basisopmaak is helemaal prima. Het gaat om de inhoud. Besteedt de tijd voor pracht en praal aan je website.
 
 
 
@@ -68,9 +68,9 @@ Markdown cheatcheet: [Hulp bij het schrijven van Markdown](https://github.com/ad
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/vlag1.png)
 
-**Breakdown-schets:**
+**Breakdown-schets(en):**
 
-![-voorlopige breakdownschets van een of beide pagina's van de site die je gaat maken-](images/vlag1.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/vlag1.png)
 
 
 
