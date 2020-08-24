@@ -11,5 +11,5 @@
 ## Voortgang 1 (week 3)
 
 ## Intake
-![alt text](https://github.com/SanneTest/FED/vlag1.png "FED vlag")
+![alt text](https://github.com/SanneTest/FED/images/vlag1.png "FED vlag")
 
