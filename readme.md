@@ -3,6 +3,10 @@
 
 **URL site:** -url naar je website-
 
+Markdown cheatcheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+
+
 ## Bronnenlijst
 1. -bron 1-
 2. -bron 2-
@@ -58,7 +62,7 @@
 
 **Je focus:** -kies uit responsive óf surface plane-
 
-**Je opdracht:** -link naar de website die je gaan namaken óf de naam van je eigen ontwerp-
+**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
 
 **Screenshot(s):**
 
