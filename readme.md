@@ -24,9 +24,16 @@ Je focus: -kies uit responsive of surface plane-
 
 Je opdracht: -link naar de website die je gaan namaken of de naam van je eigen ontwerp-
 
-Screenshot: -screenshot(s) van de website die je gaat namaken of afbeelding(en) van je eigen ontwerp-
+Screenshot: 
 
-Breakdown-schets: -voorlopige breakdownschets van de site die je gaat maken-
+![screenshot(s) van de website die je gaat namaken of afbeelding(en) van je eigen ontwerp](images/vlag1.png)
 
-![Kiku](images/vlag1.png)
+--
+
+Breakdown-schets:
+![-voorlopige breakdownschets van de site die je gaat maken-](images/vlag1.png)
+
+
+
+
 
