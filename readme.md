@@ -1,6 +1,6 @@
 # Procesverslag
-auteur: <jouw naam>
-URL site: <url naar je website>
+auteur: -jouw naam-
+URL site: -url naar je website-
 
 ## Bronnenlijst
 1. bron 1
