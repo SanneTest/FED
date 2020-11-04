@@ -71,4 +71,4 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg =100x20)
 
-<img src="images/dummy-image.svg" width="48">
+<img src="images/dummy-image.svg" width="48" height="96px">
