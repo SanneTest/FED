@@ -52,7 +52,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -na afloop snel uitkomsten vastleggen-
 
+
+
 ## Breakdownschets (week 1)
+
+-uitwerken voor de 1e werkgroep - eind van de eerste week-
+
 
 
 ## Intake (week 1)
@@ -65,8 +70,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot van de eerste pagina (small screen):**
 
-<img src="images/dummy-image.svg" width="375px" alt="lijst met schoenen">
+<img src="images/dummy-image.svg" width="375px" alt="omschrijving van de pagina">
 
 **Screenshot van de tweede pagina (small screen):**
 
-<img src="images/dummy-image.svg" width="375px" alt="detail van een schoen">
+<img src="images/dummy-image.svg" width="375px" alt="omschrijving van de pagina">
