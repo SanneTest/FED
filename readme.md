@@ -52,6 +52,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -na afloop snel uitkomsten vastleggen-
 
+## Breakdownschets (week 1)
 
 
 ## Intake (week 1)
@@ -62,10 +63,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
 
-**Screenshot(s):**
+**Screenshot van de eerste pagina (small screen):**
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
 
-**Breakdown-schets(en):**
+**Screenshot van de tweede pagina (small screen):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
