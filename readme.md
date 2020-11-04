@@ -65,10 +65,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot van de eerste pagina (small screen):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg =100x20)
+<img src="images/dummy-image.svg" width="375px" alt="lijst met schoenen">
 
 **Screenshot van de tweede pagina (small screen):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg =100x20)
-
-<img src="images/dummy-image.svg" width="375px">
+<img src="images/dummy-image.svg" width="375px" alt="detail van een schoen">
