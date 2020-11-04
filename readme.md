@@ -42,11 +42,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
+-screenshot(s) van hoe ver je bent met korte uitleg-
 
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
+
+| student 1 | student 2 | student 3 | student 4 |
+| --- | --- | --- | --- |
+| dit bespreken | en dit | en ik dit | en dan ik dat |
 
 ### Verslag van meeting
 
